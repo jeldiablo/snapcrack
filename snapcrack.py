@@ -12,7 +12,7 @@ import threading
 
 
 try:
-    targetusername = sys.argv[1]
+    ellie-marie6 = sys.argv[1]
 except:
     print(" [ ! | SYNTAX ERROR ] $ python3 snapcrack.py < username > < /path/to/passlist.txt > < # Threads > ")
 try:
